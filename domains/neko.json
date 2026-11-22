@@ -1,8 +1,8 @@
 {
-    "owner": {
-        "username": "sharkbot-neko"
-    },
-    "records": {
-        "CNAME": "nekopage.pages.dev"
-    }
+  "owner": {
+    "username": "sharkbot-neko"
+  },
+  "records": {
+    "CNAME": "nekopage.pages.dev"
+  }
 }
